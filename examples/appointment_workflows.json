@@ -1,0 +1,16 @@
+[
+  {
+    "document_id": "reschedule-24h",
+    "title": "Rescheduling inside 24 hours",
+    "body": "Confirm the appointment slot and route the request to scheduling. Do not promise a fee waiver. Record the reason using the approved operational category and ask the scheduling lead to review exceptions.",
+    "owner": "care-operations",
+    "reviewed_on": "2026-09-15"
+  },
+  {
+    "document_id": "late-arrival",
+    "title": "Late arrival workflow",
+    "body": "At 10 minutes late, notify the front desk. The front desk checks clinician capacity before confirming whether the visit can proceed. Offer rescheduling when the slot cannot be preserved.",
+    "owner": "front-desk",
+    "reviewed_on": "2026-09-15"
+  }
+]
